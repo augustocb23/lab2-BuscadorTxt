@@ -3,7 +3,7 @@ Buscador de tokens de arquivos de texto em C, utilizando árvores de busca biná
 
 Desenvolvido para a disciplina Laboratório de Programação II
 
-Criado por Augusto César Bisognin - Versão 2.1 - Codificação Western Windows 1252
+Criado por Augusto César Bisognin - Versão 2.0 - Codificação Western Windows 1252
 
 Baseado em [outro aplicativo](https://github.com/augustocb23/buscador) desenvolvido 
   para a disciplina Pesquisa e Ordenação de Dados
